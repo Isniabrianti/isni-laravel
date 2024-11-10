@@ -1,0 +1,90 @@
+/* setelan setting */
+.btn-primarry {
+    background-color: #5e59f7;
+    border-color: #75a3f3;
+    color: #fff;
+    font-size: 1.0rem;
+    font-weight: bold;
+}
+
+.btn-primarry:hover {
+    background-color: #8d92ef;
+    border-color: #8d92ef;
+}
+
+
+/* Gaya untuk profil container */
+#profileInfo, #editProfileForm {
+    text-align: center;
+    margin-top: 60px;
+}
+
+#profileInfo img, #editProfileForm img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%; 
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+#profileInfo .form-group, #editProfileForm .form-group {
+    margin-bottom: 5px;
+    text-align: left;
+    margin-top: 30px;   
+}
+
+.form-group label {
+    font-size: 1.0rem;
+}
+
+.form-control {
+    font-size: 1rem; 
+}
+
+#editProfileBtn {
+    font-size: 1.0rem; 
+    margin-top: 15px; 
+    width: 20%;
+}
+
+.btn-primay {
+    background-color: #5e59f7;
+    border-color: #75a3f3;
+    color: #fff;
+    font-size: 1.0rem;
+    margin-top: 15px;
+    width: 50%;
+   
+}
+
+.btn-primay:hover {
+    background-color: #8d92ef;
+    border-color: #8d92ef;
+}
+
+.btn-secondary {
+    background-color: #5e59f7;
+    border-color: #75a3f3;
+    color: #fff;
+    font-size: 1.0rem;
+    margin-top: 15px;
+}
+
+.btn-secondary:hover {
+    background-color: #8d92ef;
+    border-color: #8d92ef;
+}
+
+/* Gaya tambahan untuk form */
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.btn-danger2{
+    margin-top: 20px;
+    width: 30%;
+    font-size: 18px;
+    background-color:rgb(238, 24, 24);
+    color: #fff;
+}

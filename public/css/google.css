@@ -1,0 +1,61 @@
+.btn-primary {
+    padding: 9px;
+    font-size: 18px;
+    border-radius: 10px; 
+    background-color: #305af1; 
+    color: #fff;  
+    transition: background-color 0.3s ease;
+    
+}
+
+.btn-primary:hover {
+    background-color: #305af1; 
+}
+
+.or-login-with {
+    font-size: 14px; 
+    color: #6c757d;
+    margin-bottom: 10px; 
+    margin-top: -30px; 
+    display: block; 
+    margin-left: 50px;
+}
+
+.social-login {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px; 
+    gap: 15px; 
+    margin-left: 50px;
+}
+
+.social-login a {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+    margin: 0;   
+}
+
+.social-login a img {
+    width: 70px; 
+    height: 70px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    margin: 0; 
+}
+
+.social-login a:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.alert-danger {
+    font-size: 14px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}

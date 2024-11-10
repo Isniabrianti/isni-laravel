@@ -1,0 +1,53 @@
+/* Style untuk custom card */
+.custom-card {
+    border-radius: 10px; 
+}
+
+.custom-header {
+    font-size: 20px; 
+}
+
+.custom-header-text {
+    font-weight: bold; 
+    font-size: 20px;   
+}
+
+.custom-body {
+    padding: 20px; 
+}
+
+.custom-title {
+    font-size: 25px; 
+    color: #333; 
+}
+
+.custom-text {
+    font-size: 20px;
+    color: #666;
+}
+
+.btn-primary1{
+    background-color: #5e59f7;
+    border-color: #75a3f3;
+    color: #fff;
+    width: 100%;
+    font-size: 17px;
+}
+
+.btn-succes {
+    background-color: #54cbf3; 
+    color: white;
+    width: 20%;
+    border: none;
+    padding: 10px 20px; 
+    font-size: 16px;
+    border-radius: 5px; 
+    text-align: center; 
+    display: inline-block; 
+    transition: background-color 0.3s ease; 
+}
+
+.btn-succes:hover {
+    background-color: #b6ecf4;
+    cursor: pointer; 
+}
